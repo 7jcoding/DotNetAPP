@@ -1,0 +1,9 @@
+bin/
+obj/
+.svn
+*.user
+*.suo
+*.Publish.xml
+*.rar
+*.zip
+.vs
